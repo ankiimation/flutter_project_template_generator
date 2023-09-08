@@ -1,6 +1,6 @@
 name: flutter_project_generator
 description: Easily generate your flutter project with configs file
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/ankiimation/flutter_project_template_generator
 
 environment:

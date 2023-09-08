@@ -47,5 +47,5 @@ sample_configs.json
 
 run generator:
 ```
-dart run flutter_project_generator --path=path/to/config.json
+dart pub global run flutter_project_generator --path=path/to/config.json
 ```
